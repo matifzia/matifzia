@@ -117,10 +117,10 @@
   <table>
     <tr>
       <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matifzia&show_icons=true&theme=solarized-dark&langs_count=4&layout=compact" />
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matifzia&show_icons=true&theme=tokyonightk&langs_count=4&layout=compact" />
       </td>
       <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=matifzia&show_icons=true&theme=solarized-dark"/>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=matifzia&show_icons=true&theme=tokyonight"/>
       </td>
     </tr>   
   </table>
