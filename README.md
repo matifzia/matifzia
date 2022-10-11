@@ -14,7 +14,7 @@
 ---
 
 
-<h2> Web & Mobile Technology Stacks</h2>
+<h2> Web Development Stacks</h2>
 
 <table>
   <thead align="center">
@@ -25,76 +25,73 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+    <td>
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" rel="nofollow">
           🌐 <b>Frontend</b>
         </a>
-      </td>
+	</td>
       <td>
-	      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"/></a>
-	      <a href="https://www.typescriptlang.org/" rel="nofollow">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;"/></a>
-	       <a href="https://vuejs.org/" rel="nofollow">
-        <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"/></a>
+      <a href="https://www.typescriptlang.org/" rel="nofollow">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://vuejs.org/" rel="nofollow">
+      <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
         data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
         style="max-width: 100%;"/></a>
-       <a href="https://vuetifyjs.com/" rel="nofollow">
-        <img alt="Vuex" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"
+	<a href="https://vuetifyjs.com/" rel="nofollow">
+	<img alt="Vuex" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"
         data-canonical-src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"
         style="max-width: 100%;"/></a>
-        <a href="https://reactjs.org/" rel="nofollow">
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"/></a>
-	      <a href="https://angular.io/" rel="nofollow">
-        <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;"/></a>
-        <a href="https://react-hook-form.com/" rel="nofollow">
-        <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"
+	<a href="https://reactjs.org/" rel="nofollow">
+	<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"/></a>
+	<a href="https://angular.io/" rel="nofollow">
+	<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;"/></a>
+	<a href="https://react-hook-form.com/" rel="nofollow">
+	<img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"
         data-canonical-src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"
         style="max-width: 100%;"/></a>
-        <a href="https://redux.js.org/" rel="nofollow">
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
+	<a href="https://redux.js.org/" rel="nofollow">
+	<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
         data-canonical-src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
         style="max-width: 100%;"/></a>
-        <a href="https://rxjs.dev/" rel="nofollow">
-        <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"
+	<a href="https://rxjs.dev/" rel="nofollow">
+	<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"
         data-canonical-src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"
         style="max-width: 100%;"/></a>
-        <a href="https://storybook.js.org/" rel="nofollow">
-        <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="max-width: 100%;"/></a>
-      </td>
-    </tr>
+	<a href="https://storybook.js.org/" rel="nofollow">
+	<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="max-width: 100%;"/></a>
+	</td>
+	</tr>
 	<tr>
-      <td>
-        <a href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow">
+	<td>
+	<a href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow">
           💻 <b>Backend</b>
-        </a>
+	  </a>
       </td>
       <td>
-	      <a href="https://nodejs.org/en/" rel="nofollow">
-        <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://expressjs.com/" rel="nofollow">
-        <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://nestjs.com/" rel="nofollow">
-        <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"/></a>
-        <a href="https://www.python.org/" rel="nofollow">
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;"/></a>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;"/></a>
-        <a href="https://www.djangoproject.com/" rel="nofollow">
-        <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" data-canonical-src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="max-width: 100%;"/></a>
-        <a href="https://www.django-rest-framework.org/" rel="nofollow">
-        <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" data-canonical-src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="max-width: 100%;"/></a>
-        <a href="https://flask.palletsprojects.com/" rel="nofollow">
-        <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" data-canonical-src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;"/></a>
-	<a href="https://graphql.org/" rel="nofollow">
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://nodejs.org/en/" rel="nofollow">
+      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://expressjs.com/" rel="nofollow">
+      <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://nestjs.com/" rel="nofollow">
+      <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://www.python.org/" rel="nofollow">
+      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;"/></a>
+      <a href="https://www.djangoproject.com/" rel="nofollow">
+      <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" data-canonical-src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://flask.palletsprojects.com/" rel="nofollow">
+      <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" data-canonical-src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;"/></a>
+      <a href="https://graphql.org/" rel="nofollow">
+      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="max-width: 100%;"/></a>
 </td>
-    </tr>
-    <tr>
-      <td>
+</tr>
+<tr>
+<td>
         <a href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information.">
         ⚡ <b>Database</b>
         </a>
