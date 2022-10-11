@@ -67,7 +67,7 @@
         <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="max-width: 100%;"/></a>
       </td>
     </tr>
-	  <tr>
+	<tr>
       <td>
         <a href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow">
           💻 <b>Backend</b>
@@ -89,10 +89,9 @@
         <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" data-canonical-src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="max-width: 100%;"/></a>
         <a href="https://flask.palletsprojects.com/" rel="nofollow">
         <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" data-canonical-src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;"/></a>
-   
-	      <a href="https://graphql.org/" rel="nofollow">
+	<a href="https://graphql.org/" rel="nofollow">
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="max-width: 100%;"/></a>
-	    </td>
+</td>
     </tr>
     <tr>
       <td>
@@ -101,17 +100,15 @@
         </a>
       </td>
       <td>
-	      <a href="https://www.mysql.com/" rel="nofollow">
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"/></a>
-	      
-	      <a href="https://www.postgresql.org/" rel="nofollow">
+	<a href="https://www.mysql.com/" rel="nofollow">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"/></a> 
+	<a href="https://www.postgresql.org/" rel="nofollow">
         <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://www.mongodb.com/" rel="nofollow">
+	<a href="https://www.mongodb.com/" rel="nofollow">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;"/></a>
-	      <a href="https://firebase.google.com/" rel="nofollow">
+	<a href="https://firebase.google.com/" rel="nofollow">
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" data-canonical-src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" style="max-width: 100%;"/></a>
-	  
-	    </td>
+	</td>
     </tr>
   </tbody>
 </table>
