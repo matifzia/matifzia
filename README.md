@@ -25,7 +25,7 @@
   </thead>
   <tbody>
     <tr>
-    <td>
+    <td style="width:8rem">
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" rel="nofollow">
           🌐 <b>Frontend</b>
         </a>
