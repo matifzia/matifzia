@@ -16,7 +16,11 @@
 
 <h2> Web Development Stacks</h2>
 
-<table>
+<table style="width: 100%">
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
+  </colgroup>
   <thead align="center">
     <tr border: none;>
       <td><b>Aspects</b></td>
@@ -25,7 +29,7 @@
   </thead>
   <tbody>
     <tr>
-    <td style="width:8rem">
+    <td>
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" rel="nofollow">
           🌐 <b>Frontend</b>
         </a>
