@@ -30,11 +30,8 @@
   <tbody>
     <tr>
     <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" style="display:flex;justify-content:space-between" rel="nofollow">
-	<div>🌐</div>
-	<b>Frontend</b>
-        </a>
-	</td>
+	<b>🌐 Frontend</b>
+    </td>
       <td>
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
@@ -74,11 +71,8 @@
 	</tr>
 	<tr>
 	<td>
-	<a style="display:flex;justify-content:space-between" href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow">
-        <div>💻</div>
-	<b>Backend</b>
-	  </a>
-      </td>
+	    <b>💻 Backend</b>
+	</td>
       <td>
       <a href="https://nodejs.org/en/" rel="nofollow">
       <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
@@ -97,12 +91,9 @@
 </td>
 </tr>
 <tr>
-<td>
-        <a style="display:flex;justify-content:space-between" href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information.">
-        <div>⚡</div>
-	<b>Database</b>
-        </a>
-      </td>
+	<td>
+		<b>⚡ Database</b>
+	</td>
       <td>
 	<a href="https://www.mysql.com/" rel="nofollow">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"/></a> 
