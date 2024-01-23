@@ -31,7 +31,8 @@
     <tr>
     <td>
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" style="display:flex;justify-content:space-between" rel="nofollow">
-          🌐 <b>Frontend</b>
+	<div>🌐</div>
+	<b>Frontend</b>
         </a>
 	</td>
       <td>
@@ -74,7 +75,8 @@
 	<tr>
 	<td>
 	<a style="display:flex;justify-content:space-between" href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow">
-          💻 <b>Backend</b>
+        <div>💻</div>
+	<b>Backend</b>
 	  </a>
       </td>
       <td>
@@ -97,7 +99,8 @@
 <tr>
 <td>
         <a style="display:flex;justify-content:space-between" href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information.">
-        ⚡ <b>Database</b>
+        <div>⚡</div>
+	<b>Database</b>
         </a>
       </td>
       <td>
