@@ -30,7 +30,7 @@
   <tbody>
     <tr>
     <td>
-	<b>🌐 Frontend</b>
+	<b style="display: ruby;">🌐 Frontend</b>
     </td>
       <td>
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
@@ -71,7 +71,7 @@
 	</tr>
 	<tr>
 	<td>
-	    <b>💻 Backend</b>
+	    <b style="display: ruby;">💻 Backend</b>
 	</td>
       <td>
       <a href="https://nodejs.org/en/" rel="nofollow">
@@ -92,7 +92,7 @@
 </tr>
 <tr>
 	<td>
-		<b>⚡ Database</b>
+		<b style="display: ruby;">⚡ Database</b>
 	</td>
       <td>
 	<a href="https://www.mysql.com/" rel="nofollow">
